@@ -28,3 +28,19 @@ header .logo {
 main {
     padding: 20px;
 }
+.name-tag {
+    margin-top: 20px;
+    width: 400px;
+    background: pink;
+    color:firebrick
+    text-align: center;
+}
+h1 {
+    font-size: 3em;
+}
+
+.name-display {
+    background: whitesmoke;
+    color:black;
+
+}
